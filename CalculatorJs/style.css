@@ -19,8 +19,8 @@ body {
     justify-content: center;
     align-items: center;
     margin: 170px;
-    width: 200px;
-    height: 270px;
+    width: 300px;
+    height: 570px;
     background-color: grey;
     border-radius: 5px;
     
@@ -28,7 +28,7 @@ body {
 
 #inputLabel {
     background-color: var(--background-color);
-    padding: 2px;
+    padding: 20px;
     border-radius: 5px;
     font-size: large;
     text-align: right;
@@ -42,9 +42,9 @@ body {
 }
 
 td button {
-    padding:8px;
-    width: 32px;
-    margin: 3px;
+    padding:20px;
+    width: 50px;
+    margin: 8px;
 
 }
 
@@ -53,10 +53,10 @@ button {
     border: none;
     width: 25px;
     border-radius: 10px;
-    background: rgb(122, 42, 112);
+    background: rgb(53, 50, 53);
     color: #ebe7ea;
     text-align: center;
-    padding: 2px;
+    padding: 22px;
     
 }
 button:hover {
